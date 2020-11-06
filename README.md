@@ -1,4 +1,4 @@
-# Projet-Enqu-te-d-mographique-et-de-sant-
+# Projet-Enquete-demographique-et-de-sante
 
 Dans le cadre du Master 1 Mathématiques Appliquées, Statistique dispensé au sein
 de la faculté des Sciences d’Aix-Marseille Université site Saint Charles, nous avons dû réaliser
